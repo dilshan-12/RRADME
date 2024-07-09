@@ -1,4 +1,4 @@
-# 👨‍💻 About Me:
+# ⚘ About Me:
 WE ARE SIMPLY AN EVOLUTION OF THE TECHNOLOGICAL SYSTEM. ⚘
 
 
@@ -12,7 +12,7 @@ WE ARE SIMPLY AN EVOLUTION OF THE TECHNOLOGICAL SYSTEM. ⚘
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dilshan-12&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dilshan-12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✅bTop Contributed Repo
+### ⚘ Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=dilshan-12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
