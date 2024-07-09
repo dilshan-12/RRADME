@@ -1,4 +1,4 @@
-<h2> ⚘ About Me: </h2>
+<h2> ⚕️ About Me: </h2>
 WE ARE SIMPLY AN EVOLUTION OF THE TECHNOLOGICAL SYSTEM. ⚘
 
 
