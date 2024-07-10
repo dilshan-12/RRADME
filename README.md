@@ -1,6 +1,6 @@
-<h2> ⚕️ About Me: </h2>
+<center><h2> ⚕️ About Me: </h2>
 <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-WE ARE SIMPLY AN EVOLUTION OF THE TECHNOLOGICAL SYSTEM. ⚘
+WE ARE SIMPLY AN EVOLUTION OF THE TECHNOLOGICAL SYSTEM. ⚘</center>
 
 
 ## ⚕️ Socials: 
